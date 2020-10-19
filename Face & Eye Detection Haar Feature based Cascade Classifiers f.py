@@ -1,5 +1,5 @@
-
-
+# Face & Eye Detection in Python 3 for Beginners
+# By @mahin
 
 
 import cv2
